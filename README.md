@@ -7,5 +7,6 @@ As stated above, the main purpose is to provide simple examples for Git training
 ## Deployment
 This is a simple web project, deployment can be done via a simple mechanism
 ## How to Contribute
+Please fork this repository and then issue a pull request for review.
 ### Copyright
 2018 Git training
