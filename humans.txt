@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Neyas Anand neyas.anand@sap.com neyas
 
 # THANKS
 
